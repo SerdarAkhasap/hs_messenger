@@ -1,0 +1,50 @@
+[
+  {
+    "message_id" : 1,
+    "received_user_id": 1,
+    "sender_user_id": 5,
+    "message": "Сделай мне кофе, пожалуйста",
+    "is_read" : true,
+    "message_create_date" : "2024-01-20 15:00"
+  },
+  {
+    "message_id" : 2,
+    "received_user_id": 5,
+    "sender_user_id": 1,
+    "message": "Окей",
+    "is_read" : true,
+    "message_create_date" : "2024-01-20 16:00"
+  },
+  {
+    "message_id" : 3,
+    "received_user_id": 1,
+    "sender_user_id": 5,
+    "message": "Уже сделал?",
+    "is_read" : false,
+    "message_create_date" : "2024-01-21 17:00"
+  },
+  {
+    "message_id" : 4,
+    "received_user_id": 5,
+    "sender_user_id": 2,
+    "message": "Я готов",
+    "is_read" : false,
+    "message_create_date" : "2024-01-21 17:00"
+  },
+  {
+    "message_id" : 5,
+    "received_user_id": 3,
+    "sender_user_id": 5,
+    "message": "Я вышел",
+    "is_read" : false,
+    "message_create_date" : "2024-01-21 17:00"
+  },
+  {
+    "message_id" : 5,
+    "received_user_id": 4,
+    "sender_user_id": 5,
+    "message": "Я вышел",
+    "is_read" : false,
+    "message_create_date" : "2024-01-21 17:00"
+  }
+]
