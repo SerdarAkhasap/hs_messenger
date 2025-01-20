@@ -33,9 +33,8 @@ class MessageBox extends StatelessWidget {
             backgroundColor: Palette.searchBg,
             width: 50,
             height: 50,
-            icon: Transform.rotate(
-                angle: 70,
-                child: const Icon(Icons.keyboard_voice_sharp, size: 30,)),
+            icon: const Icon(Icons.keyboard_voice_sharp, size: 30,
+    ),
           ),
         ],
       ),
